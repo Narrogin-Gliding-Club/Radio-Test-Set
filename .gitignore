@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+# Project specific
+*.sch~
+*.gitignore.*
+.*.swp
